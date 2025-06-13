@@ -1,6 +1,8 @@
 # Ignorar los archivos de estado de Terraform
 *.tfstate
 *.tfstate.backup
+*.lock.hcl
+*.lock.info
 terraform.tfvars
 
 # Ignorar las claves privadas y públicas
