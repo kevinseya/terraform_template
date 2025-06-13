@@ -1,0 +1,17 @@
+# Ignorar los archivos de estado de Terraform
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+
+# Ignorar las claves privadas y públicas
+*.pem
+*.pub
+
+# Ignorar archivos JSON de autenticación
+*.json
+
+# Ignorar la carpeta .terraform que contiene archivos temporales y de configuración local
+.terraform/
+
+# Archivos de Visual Studio Code
+.vscode
