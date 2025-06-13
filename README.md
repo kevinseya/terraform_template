@@ -147,7 +147,7 @@ terraform apply
 
 ## Oracle Cloud - Terraform
 <div style="text-align: center;">
-  <img src="https://www.solutia.cz/wp-content/uploads/2020/12/oracle_cloud_transparent-600x406.png](https://1000logos.net/wp-content/uploads/2024/08/Oracle-Cloud-Logo.png" width="200" />
+  <img src="https://1000logos.net/wp-content/uploads/2024/08/Oracle-Cloud-Logo-768x432.png" width="200" />
 </div>
 
 Para comenzar a trabajar con Oracle Cloud, sigue estos pasos:
